@@ -1,6 +1,7 @@
 # Lonear
 
 =============
+
 odpovědi na otázky ze zadání:
 (logistic)
 1. Otázka: Které sloupce vypadají problematicky?
@@ -37,6 +38,7 @@ Otázka 8: Co má největší vliv na výkon z pohledu koeficientů? Dává to s
 Odpověď: Největší vliv má hodina studia navíc. Výsledek smysl dává.
 
 =============
+
 lineární regrese: Snaží se daty proložit přímku.
 
 logistická regrese: Namísto přímky používá esovitou křivku.
